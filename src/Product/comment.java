@@ -8,7 +8,6 @@ public class comment {
 	
 	private List <Member> consumer;
 //	private String name;
-//	private String account_id;
 //	private String gender;
 //	private int age;
 	private int status;
