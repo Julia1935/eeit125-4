@@ -11,10 +11,9 @@ public class comment {
 //	private String gender;
 //	private int age;
 	private int status;
-	private Date comment_date;
+	private Date time;
 	private String comment;
-	private String evaluation;
-	//圖片上傳
+
 	
 	
 
