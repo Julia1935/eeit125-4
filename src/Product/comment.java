@@ -11,8 +11,8 @@ public class comment {
 //	private String gender;
 //	private int age;
 	private int status;
-	private Date time;
-	private String comment;
+	private Date comment_time;
+	private String content_box;
 
 	
 	
